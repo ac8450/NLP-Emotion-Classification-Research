@@ -93,13 +93,13 @@ This visualization compares word importance using raw word frequency and TF-IDF.
 
 The confusion matrix shows the model's correct and incorrect classifications between happiness and sadness.
 
-<img src="images/confusion-matrix.png" width="600">
+<img src="nlp-images/confusion-matrix.png" width="600">
 
 ### ROC Curve
 
 The ROC curve evaluates the classifier across different decision thresholds.
 
-<img src="images/roc-curve.png" width="600">
+<img src="nlp-images/roc-curve.png" width="600">
 
 ---
 
